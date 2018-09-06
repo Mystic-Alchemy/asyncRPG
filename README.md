@@ -1,2 +1,2 @@
 # asyncRPG
-## An asynchronous library for roleplaying games
+### An asynchronous library for roleplaying games
